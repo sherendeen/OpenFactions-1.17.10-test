@@ -1,9 +1,9 @@
 name: OpenFactions
 version: 0.2.4.0
-api-version: 1.16.1
+api-version: 1.7.10
 main: openFactions.CustomNations
 authors: [ZettaX, Inivican]
-description: A better, more modular version of factions
+description: A backported OpenFactions for 1.7.10, aimed at delivering a better factions experience. 
 commands:
    of:
       description: Main command.
